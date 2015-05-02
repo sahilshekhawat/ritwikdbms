@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  PNAME: MyString
+  PRICE: 1
+  QUANTITY: 1
+
+two:
+  PNAME: MyString
+  PRICE: 1
+  QUANTITY: 1

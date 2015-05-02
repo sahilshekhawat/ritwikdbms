@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  CNO: 1
+  ENO: 1
+  RECIEVED: MyString
+  SHIPPED: MyString
+
+two:
+  CNO: 1
+  ENO: 1
+  RECIEVED: MyString
+  SHIPPED: MyString

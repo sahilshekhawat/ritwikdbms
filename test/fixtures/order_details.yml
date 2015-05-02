@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ONO: 1
+  PNO: 1
+  QUANTITY: 1
+
+two:
+  ONO: 1
+  PNO: 1
+  QUANTITY: 1
