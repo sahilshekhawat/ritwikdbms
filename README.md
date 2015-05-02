@@ -1,4 +1,5 @@
-== README
+README
+=========
 
 Ensure that you have rails installed
 ```
@@ -18,7 +19,7 @@ rails server
 ```
 sudo apt-get install nodejs
 sudo apt-get install libmysqlclient-dev
-``
+```
 If you are on OSX then run
 ```
 brew install mysql
